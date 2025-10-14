@@ -12,7 +12,7 @@
 // [Median Filter] 3, 5, 7 등 홀수로 설정하여 테스트하세요.
 #define WINDOW_SIZE 3
 // [EMA Filter] 0.0 ~ 1.0 사이로 조절하세요. (값이 작을수록 부드러워짐)
-#define _EMA_ALPHA 0.1
+#define _EMA_ALPHA 0.3
 // =================================================================
 
 // Configurable parameters
